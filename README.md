@@ -42,10 +42,6 @@ JorgeCTF Resources
 Pentest Monkey
 {% endembed %}
 
-{% embed url="https://morph3sec.com/" %}
-Morph3 Blog
-{% endembed %}
-
 {% embed url="https://github.com/s0md3v/AwesomeXSS" %}
 S0md3v - Awesome XSS
 {% endembed %}
