@@ -16,8 +16,6 @@ If you want to contribute to this repository, you can do it by contacting me or 
 
 ### Contributors
 
-(BE THE FIRST ONE)
-
 Thanks to all contributors and thanks to the owners of the websites where I have been able to gather all this information.
 
 ### Resources used
